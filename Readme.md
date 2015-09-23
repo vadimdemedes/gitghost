@@ -1,4 +1,4 @@
-# git:ghost [![Circle CI](https://circleci.com/gh/vdemedes/gitghost.svg?style=svg)](https://circleci.com/gh/vdemedes/gitghost)
+# git:ghost
 
 Publish posts to your Ghost blog via git.
 
