@@ -4,7 +4,7 @@ Publish posts to your Ghost blog via git.
 
 <h1 align="center">
   <br>
-  <img width="200" src="media/logo.png">
+  <a href="http://gitghost.org"><img width="200" src="media/logo.png"></a>
   <br>
   <br>
   <br>
